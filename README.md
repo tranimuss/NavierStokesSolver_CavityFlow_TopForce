@@ -54,7 +54,7 @@ The project is built entirely in **Python 3** using a clean modular architecture
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 1. Install required dependencies:
    ```bash
